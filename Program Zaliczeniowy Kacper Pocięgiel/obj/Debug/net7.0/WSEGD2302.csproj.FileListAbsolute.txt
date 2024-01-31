@@ -1,0 +1,14 @@
+C:\Users\Amako 01\Desktop\WSEGD2302-main\bin\Debug\net7.0\WSEGD2302.exe
+C:\Users\Amako 01\Desktop\WSEGD2302-main\bin\Debug\net7.0\WSEGD2302.deps.json
+C:\Users\Amako 01\Desktop\WSEGD2302-main\bin\Debug\net7.0\WSEGD2302.runtimeconfig.json
+C:\Users\Amako 01\Desktop\WSEGD2302-main\bin\Debug\net7.0\WSEGD2302.dll
+C:\Users\Amako 01\Desktop\WSEGD2302-main\bin\Debug\net7.0\WSEGD2302.pdb
+C:\Users\Amako 01\Desktop\WSEGD2302-main\obj\Debug\net7.0\WSEGD2302.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amako 01\Desktop\WSEGD2302-main\obj\Debug\net7.0\WSEGD2302.AssemblyInfoInputs.cache
+C:\Users\Amako 01\Desktop\WSEGD2302-main\obj\Debug\net7.0\WSEGD2302.AssemblyInfo.cs
+C:\Users\Amako 01\Desktop\WSEGD2302-main\obj\Debug\net7.0\WSEGD2302.csproj.CoreCompileInputs.cache
+C:\Users\Amako 01\Desktop\WSEGD2302-main\obj\Debug\net7.0\WSEGD2302.dll
+C:\Users\Amako 01\Desktop\WSEGD2302-main\obj\Debug\net7.0\refint\WSEGD2302.dll
+C:\Users\Amako 01\Desktop\WSEGD2302-main\obj\Debug\net7.0\WSEGD2302.pdb
+C:\Users\Amako 01\Desktop\WSEGD2302-main\obj\Debug\net7.0\WSEGD2302.genruntimeconfig.cache
+C:\Users\Amako 01\Desktop\WSEGD2302-main\obj\Debug\net7.0\ref\WSEGD2302.dll

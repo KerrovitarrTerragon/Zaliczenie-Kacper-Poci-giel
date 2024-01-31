@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "WSEGD2302/1.0.0": {
+        "runtime": {
+          "WSEGD2302.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WSEGD2302/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
